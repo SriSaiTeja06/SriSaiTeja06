@@ -41,20 +41,6 @@
 
 ---
 
-<!-- GITHUB STATS -->
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SriSaiTeja06&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SriSaiTeja06&theme=github_dark&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SriSaiTeja06&theme=rogue" width="90%"/>
-</p>
-
----
-
 <!-- RESEARCH INTERESTS -->
 ### 🧪 Research & Interests
 - Generative AI 🔥 | Fine-tuning LLMs | Retrieval-Augmented Generation
